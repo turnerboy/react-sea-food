@@ -1,0 +1,11 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.autoSave": "afterDelay",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "xml": {
+            "attr_quotes": "single"
+        }
+    }
+}
